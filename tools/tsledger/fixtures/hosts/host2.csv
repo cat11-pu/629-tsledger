@@ -1,0 +1,6 @@
+Metric Family,Description,0,20,40,60
+host2:go_goroutines,Number of goroutines that currently exist,8.00,9.00,8.00,10.00
+host2:node_network_receive_bytes_total,Network device bytes received in total,50.00,220.00,30.00,130.00
+host2:process_resident_memory_bytes,Resident memory size in bytes,200.00,210.00,205.00,215.00
+host2:tendermint_consensus_height,Current blockchain height,900.00,905.00,903.00,910.00
+host2:tendermint_consensus_total_txs,Total number of transactions processed,5.00,15.00,30.00,50.00

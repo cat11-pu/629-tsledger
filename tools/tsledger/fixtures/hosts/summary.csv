@@ -1,0 +1,46 @@
+INTERACTION STATISTICS,
+Interactions total time,1m20.5s
+Interactions total time (absolute),1m22.5s
+Interactions total clients,40
+Interactions per second per client,12.50
+Interactions per second overall,500.00
+Interactions per second overall (absolute),487.80
+Interactions count,40000
+Interactions errors,12
+Interactions failure rate (%),0.03
+Interactions min time,1.001ms
+Interactions max time,5s
+Interactions top errors:,
+  timed out,10
+  connection refused,2
+
+REQUEST STATISTICS,
+broadcast_tx_sync,
+  Requests total time,40.2s
+  Requests total time (absolute),41.0s
+  Requests total clients,40
+  Requests per second per client,12.43
+  Requests per second overall,248.76
+  Requests per second overall (absolute),243.90
+  Requests count,20000
+  Requests errors,8
+  Requests failure rate (%),0.04
+  Requests min time,0.502ms
+  Requests max time,4s
+  Requests top errors:,
+    timed out,8
+
+abci_query,
+  Requests total time,40.3s
+  Requests total time (absolute),41.5s
+  Requests total clients,40
+  Requests per second per client,12.40
+  Requests per second overall,248.10
+  Requests per second overall (absolute),240.96
+  Requests count,20000
+  Requests errors,4
+  Requests failure rate (%),0.02
+  Requests min time,0.480ms
+  Requests max time,3s
+  Requests top errors:,
+    connection refused,4
